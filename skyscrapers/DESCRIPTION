@@ -1,0 +1,24 @@
+# Skyscrapers Analysis
+
+## Project Overview
+Analysis of global skyscraper data to identify architectural trends, geographic distribution, and height-to-floor correlations.
+
+## Skills Demonstrated
+- Power BI Dashboard Development
+- Geographic Visualization
+- Scatter Plot Correlation Analysis
+- Interactive Filtering
+
+## Key Insights
+- Dubai dominates skyscraper construction in the 21st century
+- Strong positive correlation between floors and height (r=0.85)
+- Asia leads in recent skyscraper development
+
+## Files
+- `Skyscrapers.pbix` - Power BI report file
+- `Skyscrapers.xlsx` - Source data
+
+## Dashboard Features
+- Interactive world map showing skyscraper distribution
+- Scatter plot analyzing floor-to-height relationship
+- Time trend analysis of construction patterns
