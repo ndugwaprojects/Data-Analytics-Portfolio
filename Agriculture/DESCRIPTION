@@ -1,0 +1,53 @@
+# Agricultural Market Analysis
+
+## Project Overview
+End-to-end data analysis project transforming raw agricultural data from UK government sources into actionable market insights. This project demonstrates full ETL pipeline development and advanced data modeling.
+
+## Skills Demonstrated
+- ETL Pipeline Development with Power Query
+- Data Cleaning and Quality Assurance
+- Star Schema Data Modeling
+- Advanced DAX Measures
+- Dynamic Time Intelligence
+- Interactive Dashboard Design
+
+## Key Insights
+- Market composition trends across livestock sectors
+- Price fluctuation patterns and seasonal variations
+- Growth rate comparisons between different agricultural sectors
+- Regional production trends and their impact on market dynamics
+
+## Technical Implementation
+- **ETL Process:** Power Query transformations for data cleaning
+- **Data Modeling:** Star schema with DimDate and DimCommodity tables
+- **Advanced DAX:**
+  - Rolling 10-year trend calculations
+  - Normalized growth percentage measures
+  - Dynamic time period comparisons
+- **Interactive Features:** Dual slicers for category/subcategory filtering
+
+## Files
+- `Agriculture.pbix` - Power BI report file
+- `data_sources/` - Cleaned Defra datasets and source files
+- `documentation/` - Data cleaning methodology and assumptions
+
+## Dashboard Features
+- Interactive livestock comparison tools (Category/Subcategory slicers)
+- Normalized growth trends for fair cross-sector comparison
+- Time series analysis with dynamic period selection
+- Market composition pie charts and trend analysis
+- Drill-through capabilities from high-level to detailed views
+
+## Data Processing Methodology
+1. **Source Identification:** UK Government Defra datasets
+2. **Data Extraction:** Multiple CSV files from public portals
+3. **Transformation:** 
+   - Handling of [x] (unavailable) and [c] (confidential) values
+   - Data type standardization and validation
+   - Creation of hierarchical category structures
+4. **Loading:** Structured star schema for optimal performance
+
+## Status: In Progress
+- Currently implementing advanced comparative analysis features
+- Enhancing interactive filtering capabilities
+- Adding predictive trend indicators
