@@ -1,0 +1,33 @@
+# Music Sales Analysis
+
+## Project Overview
+Analysis of 70+ years of million-selling music singles to identify sales trends, artist performance patterns, and industry evolution. This project showcases time series analysis and comparative performance metrics.
+
+## Skills Demonstrated
+- Time Series Analysis and Trend Identification
+- Data Modeling for Temporal Analysis
+- Comparative Performance Analysis
+- Interactive Data Visualization
+
+## Key Insights
+- Sales patterns show distinct eras in music industry economics
+- Certain artists demonstrate remarkable longevity with multiple hits across decades
+- Seasonal songs (Christmas) show exceptional and consistent performance
+
+
+## Technical Implementation
+- **Data Processing:** Created decade categorization 
+- **Time Intelligence:** Year-over-year and decade comparison measures
+- **Visual Hierarchy:** From macro trends to detailed artist analysis
+
+
+## Files
+- `Music.pbix` - Power BI report file
+- `Million-sellers.csv` - Source data
+
+## Dashboard Features
+- Bar chart ranking artists by total sales
+- Line graph showing sales trends from 1940s to 2010s
+- Interactive filters for decades and sales thresholds
+- Artist performance comparison across different eras
+- Highlighting of exceptional performers and seasonal hits
