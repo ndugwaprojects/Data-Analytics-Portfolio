@@ -28,8 +28,7 @@ End-to-end data analysis project transforming raw agricultural data from UK gove
 
 ## Files
 - `Agriculture.pbix` - Power BI report file
-- `data_sources/` - Cleaned Defra datasets and source files
-- `documentation/` - Data cleaning methodology and assumptions
+
 
 ## Dashboard Features
 - Interactive livestock comparison tools (Category/Subcategory slicers)
