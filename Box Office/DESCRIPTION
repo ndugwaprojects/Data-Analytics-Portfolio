@@ -17,7 +17,6 @@ Comprehensive analysis of movie industry data to identify performance patterns a
 - Interactive decomposition allows deep-dive analysis from high-level to detailed views
 
 ## Technical Implementation
-- **Data Model:** Star schema with fact and dimension tables
 - **Advanced Visuals:** Decomposition tree for hierarchical analysis
 - **Interactivity:** Cross-filtering between certificate, genre, and director levels
 
