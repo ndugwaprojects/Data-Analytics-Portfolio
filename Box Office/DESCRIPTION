@@ -1,0 +1,33 @@
+# Movie Industry Analysis
+
+## Project Overview
+Comprehensive analysis of movie industry data to identify performance patterns across genres, certifications, and directors. This project demonstrates advanced Power BI features for hierarchical data exploration.
+
+## Skills Demonstrated
+- Power BI Decomposition Trees
+- Hierarchical Data Analysis
+- KPI Tracking and Visualization
+- Interactive Dashboard Design
+
+
+## Key Insights
+- Box office performance varies significantly by genre and certification
+- Certain directors consistently outperform industry averages
+- Certification categories show distinct revenue patterns
+- Interactive decomposition allows deep-dive analysis from high-level to detailed views
+
+## Technical Implementation
+- **Data Model:** Star schema with fact and dimension tables
+- **Advanced Visuals:** Decomposition tree for hierarchical analysis
+- **Interactivity:** Cross-filtering between certificate, genre, and director levels
+
+
+## Files
+- `Movies.pbix` - Power BI report file
+- `movies_dataset.csv` 
+
+## Dashboard Features
+- Decomposition tree analyzing box office → certificate → genre → director
+- Interactive filters for time periods and performance thresholds
+- Comparative analysis of director performance within genres
+- Trend analysis of certification impact on revenue
